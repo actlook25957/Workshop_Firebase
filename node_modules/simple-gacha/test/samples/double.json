@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "This one has a higher chance",
+        "weight" : 10
+    },
+    {
+        "name" : "This one has a lower chance",
+        "weight" : 5
+    }
+]
